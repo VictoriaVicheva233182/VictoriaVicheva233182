@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-AI &amp; data engineer from Sofia,Bulgaria | MSc Data-Driven Business @ THUAS | Building RAG and LLM tools | Currently learning AI red teaming
+AI &amp; data engineer from Sofia,Bulgaria | Building RAG and LLM tools | Currently learning AI red teaming
 
 🌱 &nbsp;I'm currently learning **Currently learning how to red team AI systems: testing LLMs for jailbreaks, prompt injection and other weaknesses so they can be made safer.**  
 😄 &nbsp;Pronouns: **she/her**
