@@ -9,17 +9,48 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Public+Sans&weight=500&size=22&pause=1400&color=ECBDD8&center=true&vCenter=true&width=860&height=40&lines=Data+scientist+and+AI+engineer+from+Bulgaria%2C+based+in+the+Netherlands;Graduated+cum+laude+in+Applied+Data+Science+%26+AI;Currently+learning+to+red+team+AI+systems" />
-    <img src="https://readme-typing-svg.demolab.com?font=Public+Sans&weight=500&size=22&pause=1400&color=0A0A0A&center=true&vCenter=true&width=860&height=40&lines=Data+scientist+and+AI+engineer+from+Bulgaria%2C+based+in+the+Netherlands;Graduated+cum+laude+in+Applied+Data+Science+%26+AI;Currently+learning+to+red+team+AI+systems" alt="Data scientist and AI engineer from Bulgaria, based in the Netherlands. Graduated cum laude in Applied Data Science and AI. Currently learning to red team AI systems." />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Public+Sans&weight=500&size=22&pause=1400&color=ECBDD8&center=true&vCenter=true&width=860&height=40&lines=AI+and+data+engineer+from+Bulgaria%2C+based+in+the+Netherlands;I+take+ML+models+from+notebook+to+deployed+API;Cum+laude+in+Applied+Data+Science+%26+AI+(9%2F10);Now+learning+to+red+team+LLMs" />
+    <img src="https://readme-typing-svg.demolab.com?font=Public+Sans&weight=500&size=22&pause=1400&color=0A0A0A&center=true&vCenter=true&width=860&height=40&lines=AI+and+data+engineer+from+Bulgaria%2C+based+in+the+Netherlands;I+take+ML+models+from+notebook+to+deployed+API;Cum+laude+in+Applied+Data+Science+%26+AI+(9%2F10);Now+learning+to+red+team+LLMs" alt="AI and data engineer from Bulgaria, based in the Netherlands. I take ML models from notebook to deployed API. Cum laude in Applied Data Science and AI. Now learning to red team LLMs." />
   </picture>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/victoria-vicheva-3817b6263"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
+  <a href="https://victoria-code-creations.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-A21517?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Portfolio" /></a>
+  <a href="mailto:victoria.vicheva@proton.me"><img src="https://img.shields.io/badge/Email-A21517?style=for-the-badge&logo=protonmail&logoColor=FFFFFF" alt="Email" /></a>
 </p>
 
 ### About Me
 
-AI and data engineer from Sofia, Bulgaria, now doing an MSc in Data-Driven Business in the Netherlands. I build RAG and LLM tools and take them from first prototype all the way to cloud deployment.
+I'm an AI and data engineer from Sofia, Bulgaria. I graduated cum laude (9/10) in Applied Data Science & AI from Breda University of Applied Sciences, with Gold and Silver academic awards, and I'm now doing a full-time MSc in Data-Driven Business at The Hague University of Applied Sciences.
 
-**Currently learning:** red teaming AI systems, which means testing LLMs for jailbreaks, prompt injection and other weaknesses so they can be made safer.<br />
+I like the whole path: cleaning messy data, testing which model actually wins instead of assuming the biggest one does, and shipping it as something people can use.
+
+**Studying:** MSc Data-Driven Business, The Hague University of Applied Sciences<br />
+**Working:** AI and data projects with Deloitte Bulgaria<br />
+**Learning:** red teaming AI systems, testing LLMs for jailbreaks, prompt injection and other weaknesses so they can be made safer<br />
+**Speaking:** Bulgarian, English (C1), German (C1), and learning Dutch<br />
 **Pronouns:** she/her
+
+### Experience
+
+**Junior Consultant, AI & Data** at Deloitte Bulgaria (2026)<br />
+Built an automated Python pipeline and dashboards that benchmark the search relevance of Google Vertex AI Search against Elastic for a European e-commerce client, replacing manual testing.
+
+**AI Engineer Intern** at De Kok Staalbouw, Netherlands (2025 to 2026)<br />
+Built a RAG assistant proof of concept for a 50+ person steel construction company, running on its own infrastructure. Raised Excel data extraction accuracy from ~20% to **85.7%**.
+
+### Featured Projects
+
+| Project | What it does | Built with |
+|---|---|---|
+| **[CloudPulse](https://cloudpulse-ai.vercel.app)**<br /><sub>Bachelor's thesis, live demo. I led the AI/ML track.</sub> | Rates how severe a cloud outage is, explains why with SHAP and suggests fixes. XGBoost beat LLM prompting by **2.65x**, and the live API matches offline results exactly. 3 of 5 external developers rated it better than their current tools. | Python, XGBoost, SHAP, FastAPI, React, Docker, Claude API |
+| **EarlyRA Detect**<br /><sub>Graduation project</sub> | Decision support prototype that helps primary care doctors spot rheumatoid arthritis risk early, with an explanation for every prediction. Built on 10,000+ patient records. | Python, Streamlit, SHAP |
+| **SDG Indicators Dashboard**<br /><sub>Gold Medal</sub> | Dashboard that tracks progress on the UN Sustainable Development Goals. | Python |
+| **Multi-channel conversation orchestrator**<br /><sub>Stockholm hackathon, team of four</sub> | Keeps one customer conversation going across SMS, email and RCS, with AI intent classification. | FastAPI, Sinch APIs, NLP |
+| **[MIDI Gloves](https://github.com/VictoriaVicheva233182/MidiGloves-)**<br /><sub>Built as a gift</sub> | Gloves that turn hand gestures into music. | Python, MediaPipe |
+
+More university work lives in [UniversityProjects](https://github.com/VictoriaVicheva233182/UniversityProjects).
 
 ### Tech Stack
 
@@ -70,14 +101,6 @@ AI and data engineer from Sofia, Bulgaria, now doing an MSc in Data-Driven Busin
 <img src="https://img.shields.io/badge/Slack-0A0A0A?style=flat-square&logo=slack&logoColor=FFFFFF" alt="Slack" />
 <img src="https://img.shields.io/badge/Notion-0A0A0A?style=flat-square&logo=notion&logoColor=FFFFFF" alt="Notion" />
 
-### Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/victoria-vicheva-3817b6263"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
-  <a href="https://victoria-code-creations.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-A21517?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Portfolio" /></a>
-  <a href="mailto:victoria.vicheva@proton.me"><img src="https://img.shields.io/badge/Email-A21517?style=for-the-badge&logo=protonmail&logoColor=FFFFFF" alt="Email" /></a>
-</p>
-
 ### GitHub Stats
 
 <p align="center">
@@ -94,4 +117,4 @@ AI and data engineer from Sofia, Bulgaria, now doing an MSc in Data-Driven Busin
 </p>
 
 ---
-<p align="center"><sub>Thanks for stopping by. <a href="mailto:victoria.vicheva@proton.me">Say hi</a> anytime.</sub></p>
+<p align="center"><sub>Working on something in AI or AI security? I'd love to hear about it. <a href="mailto:victoria.vicheva@proton.me">Email me</a>.</sub></p>
