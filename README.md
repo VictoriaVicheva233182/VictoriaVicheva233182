@@ -22,7 +22,7 @@
 
 ### About Me
 
-I'm an AI and data engineer from Sofia, Bulgaria. I graduated cum laude (9/10) in Applied Data Science & AI from Breda University of Applied Sciences, with Gold and Silver academic awards, and I'm now doing a full-time MSc in Data-Driven Business at The Hague University of Applied Sciences.
+I'm an AI and data engineer from Sofia, Bulgaria. I graduated cum laude (9/10) in Applied Data Science & AI from Breda University of Applied Sciences, with Gold and Silver academic awards.
 
 I like the whole path: cleaning messy data, testing which model actually wins instead of assuming the biggest one does, and shipping it as something people can use.
 
